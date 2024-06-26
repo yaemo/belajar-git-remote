@@ -1,5 +1,3 @@
-wkwkwk
-
-newasd
+new
 feature a
-menambahkan feature a dari feature a
+menambahkan something di feature a
